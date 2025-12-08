@@ -1,0 +1,15 @@
+Package: me.sylphin3107.shadow
+Name: Shadow Mod by Sylphin3107
+Pre-Depends: dpkg
+Depends: firmware (>= 8.0), com.opa334.altlist, com.opa334.libsandy, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.substrate, me.jjolano.fmwk.rootbridge
+Suggests: com.ps.injectionfoundation
+Recommends: mobilesubstrate, preferenceloader, me.jjolano.hkmodule.fishhook
+Provides: me.jjolano.shadow.beta
+Replaces: me.jjolano.shadow.beta
+Conflicts: me.jjolano.shadow.beta, me.jjolano.shadow.legacy
+Version: 3.7.6
+Architecture: iphoneos-arm
+Description: Chống phát hiện jailbreak, hỗ trợ game Liên Quân Mobile.
+Maintainer: Sylphin3107
+Author: Sylphin3107
+Section: System
