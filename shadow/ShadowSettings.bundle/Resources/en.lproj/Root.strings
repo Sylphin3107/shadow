@@ -1,0 +1,19 @@
+"GLOBAL_SETTINGS" = "Cài đặt chung";
+
+"ALWAYS_ON" = "Luôn bật";
+"ALWAYS_ON_DESC" = "Cố gắng bỏ qua phát hiện jailbreak cho tất cả ứng dụng theo mặc định. Không có hiệu lực nếu bị ghi đè bởi cài đặt riêng cho từng ứng dụng.";
+
+"BYPASS_SETTINGS" = "Cài đặt Bypass";
+"BYPASS_SETTINGS_DESC" = "Điều chỉnh mức độ mạnh của cơ chế bypass phát hiện jailbreak. Hiệu suất ứng dụng có thể bị ảnh hưởng.";
+
+"ROOT_APP_SETTINGS" = "Cài đặt ứng dụng";
+"ROOT_APP_SETTINGS_DESC" = "Cài đặt riêng cho từng ứng dụng sẽ ghi đè cài đặt chung nếu được bật.";
+
+"APPLICATIONS" = "Ứng dụng";
+
+"RESPRING" = "Khởi động lại SpringBoard";
+"RESET" = "Đặt lại cài đặt";
+"RESET_PROMPT" = "Thao tác này sẽ đặt lại toàn bộ cài đặt của Shadow.";
+"RESET_CANCEL" = "Hủy";
+
+"ROOT_ABOUT" = "Giới thiệu";

@@ -1,0 +1,17 @@
+"ABOUT_TITLE" = "Giới thiệu";
+"BYPASS_VERSION" = "Phiên bản Bypass";
+"SERVICE_VERSION" = "Phiên bản Dịch vụ";
+"BUILD_DATE" = "Ngày biên dịch";
+"SOFTWARE_LICENSE" = "Giấy phép phần mềm";
+"UPDATES_HDR" = "Cập nhật";
+"PACKAGE_VERSION" = "Phiên bản Gói";
+"LATEST_VERSION" = "Phiên bản Mới nhất";
+"CREDITS_HDR" = "Ghi công";
+"DEVELOPER" = "Nhà phát triển";
+"VISIT_GITHUB" = "Xem Shadow trên GitHub";
+"VISIT_KOFI" = "Gửi ủng hộ qua Ko-fi";
+"LOCALIZATION_HDR" = "Bản dịch";
+"VISIT_CHANGELOG" = "Xem thay đổi mới nhất";
+
+/* your name here! */
+"TRANSLATOR" = "Sylphin3107";

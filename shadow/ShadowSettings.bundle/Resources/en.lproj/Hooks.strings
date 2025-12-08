@@ -1,0 +1,41 @@
+"INTERNAL_SETTINGS" = "Cài đặt nội bộ";
+"HK_LIB_DESC" = "Điều khiển các phương thức được dùng để can thiệp mã của ứng dụng. Một số thư viện hooking có thể cải thiện khả năng bypass, nhưng cũng có thể ảnh hưởng đến độ ổn định của ứng dụng.";
+
+"HOOKING_LIBRARY" = "Thư viện Hooking";
+"HK_LIB_SELECT" = "Danh sách các thư viện hooking có thể sử dụng trên thiết bị của bạn. Chọn \"Tự động\" để cho phép HookKit chọn thư viện phù hợp nhất cho thiết bị.";
+"AUTOMATIC" = "Tự động";
+
+"ESSENTIAL_HOOKS" = "Hook Cơ bản";
+"ESSENTIAL_HOOKS_DESC" = "Các hook cơ bản bao phủ những phương pháp phát hiện jailbreak phổ biến nhất.";
+
+"HOOK_FILE_SYSTEM" = "Hệ thống Tập tin";
+"HOOK_DYLIB" = "Thư viện Động";
+"HOOK_URLSCHEME" = "Bộ xử lý URL";
+"HOOK_ENVVARS" = "Biến Môi trường";
+
+"REC_HOOKS" = "Hook Khuyến nghị";
+"REC_HOOKS_DESC" = "Các hook được khuyến nghị bao phủ thêm những phương pháp khác có thể được dùng để phát hiện jailbreak.";
+
+"HOOK_DETECTFMWK" = "Framework Phát hiện";
+"HOOK_FILE_SYSTEM_EX" = "Hệ thống Tập tin (Mở rộng)";
+"HOOK_FOUNDATION" = "Framework Foundation";
+"HOOK_MAC" = "Giả lập M1 Mac (iOS 14+)";
+
+"EXTRA_HOOKS" = "Hook Bổ sung";
+"EXTRA_HOOKS_DESC" = "Các hook bổ sung bao phủ nhiều phương pháp khác, bao gồm cả API riêng tư, có thể được sử dụng để phát hiện jailbreak.";
+
+"HOOK_MACH" = "Tra cứu Mach Service";
+"HOOK_SYMLOOKUP" = "Tra cứu Symbol Runtime";
+"HOOK_OBJC" = "Phương thức Lớp Objective-C";
+"HOOK_ANTIDBG" = "Phương pháp Chống Debug";
+"HOOK_SYSCALL" = "Syscall Riêng tư";
+"HOOK_APPENUM" = "Liệt kê Ứng dụng";
+
+"DNGR_HOOKS" = "Hook Nguy hiểm";
+"DNGR_HOOKS_DESC" = "Các phương pháp bypass cấp thấp. Những hook này có thể khiến một số ứng dụng bị crash.";
+
+"HOOK_SANDBOX" = "Cưỡng chế Sandbox Ứng dụng";
+"HOOK_LLC" = "File Handle Cấp thấp";
+"HOOK_MEM" = "Ẩn Bộ nhớ Thực thi";
+"HOOK_TWEAKCLASS" = "Ẩn Lớp từ Tweak";
+"HOOK_DYLD" = "Bộ Nạp Thư viện Động";
